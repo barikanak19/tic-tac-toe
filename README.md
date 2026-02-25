@@ -25,3 +25,11 @@ A classic Tic Tac Toe game built using React and Vite.
 ```bash
 npm install
 npm run dev
+
+🌐 Live Demo
+
+Add your deployed link here
+
+📌 Author
+
+Kanak Bari
